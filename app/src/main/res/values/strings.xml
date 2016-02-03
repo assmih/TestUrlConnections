@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestUrlConnection</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_others">Others</string>
+    <string name="button1">Download Image</string>
+    <string name="button2">Check Connection</string>
+    <string name="cardTitle">Image Title</string>
+</resources>
